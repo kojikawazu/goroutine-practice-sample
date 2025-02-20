@@ -17,8 +17,8 @@ Goroutine は `Go` 言語の軽量な並行処理のための機能です。
 
 ## Page
 
-[Goroutine の基本](./01-sample-goroutine/README.md)
-[チャネルの基本](./02-sample-channel/README.md)
+- [Goroutine の基本](./01-sample-goroutine/README.md)
+- [チャネルの基本](./02-sample-channel/README.md)
 
 ## 実行方法
 
