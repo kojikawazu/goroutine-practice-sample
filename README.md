@@ -23,6 +23,9 @@ Goroutine は `Go` 言語の軽量な並行処理のための機能です。
 - [Select](./04-sample-select/01-select/README.md)
 - [Select タイムアウト](./04-sample-select/02-select-timeout/README.md)
 - [WaitGroup](./05-sample-waitgroup/README.md)
+- [Mutex](./06-sample-mutex/01-mutex/README.md)
+- [Mutex R/W](./06-sample-mutex/02-mutex-rw/README.md)
+
 ## 実行方法
 
 リポジトリをクローンして、各フォルダ内のサンプルコードを実行してください。
