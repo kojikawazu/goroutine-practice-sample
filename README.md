@@ -22,7 +22,7 @@ Goroutine は `Go` 言語の軽量な並行処理のための機能です。
 - [チャネルのバッファ](./03-sample-channel-buffer/README.md)
 - [Select](./04-sample-select/01-select/README.md)
 - [Select タイムアウト](./04-sample-select/02-select-timeout/README.md)
-
+- [WaitGroup](./05-sample-waitgroup/README.md)
 ## 実行方法
 
 リポジトリをクローンして、各フォルダ内のサンプルコードを実行してください。
