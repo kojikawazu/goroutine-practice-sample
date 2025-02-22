@@ -37,6 +37,9 @@ Goroutine は `Go` 言語の軽量な並行処理のための機能です。
 - [HTTP リクエスト タイムアウト](./10-sample-http/02-http-timeout/README.md)
 - [HTTP リクエスト Worker Pool](./10-sample-http/03-http-worker-pool/README.md)
 - [WebSocket](./11-sample-websocket/README.md)
+- [Batch](./12-sample-batch/01-batch/README.md)
+- [Batch WorkerPool](./12-sample-batch/02-batch-workerpool/README.md)
+- [Batch Context Cancel](./12-sample-batch/03-batch-context-cancel/README.md)
 
 ## 実行方法
 
