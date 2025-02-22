@@ -33,6 +33,9 @@ Goroutine は `Go` 言語の軽量な並行処理のための機能です。
 - [Pipeline](./09-sample-pipeline/01-simple-pipeline/README.md)
 - [Pipeline Parallel](./09-sample-pipeline/02-paralell-pipeline/README.md)
 - [Pipeline Context](./09-sample-pipeline/03-pipeline-context/README.md)
+- [HTTP リクエスト](./10-sample-http/01-http/README.md)
+- [HTTP リクエスト タイムアウト](./10-sample-http/02-http-timeout/README.md)
+- [HTTP リクエスト Worker Pool](./10-sample-http/03-http-worker-pool/README.md)
 
 ## 実行方法
 
